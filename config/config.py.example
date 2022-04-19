@@ -1,0 +1,9 @@
+config = {
+    "apikey": "",
+    "basedir": "",
+    "file": ".csv",
+    "dir_to_save_img": "",
+    "file_to_save_results": "",
+    "login_dg": "",
+    "pass_dg": ""
+}
